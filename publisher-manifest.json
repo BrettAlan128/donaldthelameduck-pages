@@ -1,0 +1,34 @@
+{
+  "schema_version": 1,
+  "canonical_revision": "13a3641f84e332eea209554bcd41a044711018e2",
+  "files": {
+    "CNAME": {
+      "sha256": "f285d6135e27841d5d02938329abb073592162f66ab05d9ff1efe2967dd41536",
+      "bytes": 22
+    },
+    "index.html": {
+      "sha256": "b0096b40c392685d08d11814096cf90c8e4eea24eb7e38993679f17c4a16feb7",
+      "bytes": 9780
+    },
+    "shop.html": {
+      "sha256": "15ab2eae62ffa83f705647eb5778c2ee4691b0ea0dfb0705b9a3daab8fe2a833",
+      "bytes": 3572
+    },
+    "styles.css": {
+      "sha256": "89cce028a144a9cf773a0c1f59dd3b4cb50e36a70d46cd883d4af4fd8873b917",
+      "bytes": 20182
+    },
+    "images/art/launch-hero-donald-v2-web.png": {
+      "sha256": "1ba0f189f293a90abe12849b7825012b0ec931764deb6cb1a127c97fe5521d2c",
+      "bytes": 655950
+    },
+    "images/merch/perfect-very-aquatic-sticker/perfect-very-aquatic-sticker-preview-v1.png": {
+      "sha256": "056b4d882972547fe1bdaa14cb69407c6a2a4d9c74f784efab0fbce17956d668",
+      "bytes": 450312
+    }
+  },
+  "generated_files": [
+    ".nojekyll",
+    "publisher-manifest.json"
+  ]
+}

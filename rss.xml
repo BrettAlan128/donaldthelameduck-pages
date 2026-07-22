@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Donald the Lame Duck</title>
+    <link>https://brettalan128.github.io/donaldthelameduck-pages/</link>
+    <description>Original political satire from the royal pond.</description>
+    <language>en-us</language>
+    <atom:link href="https://brettalan128.github.io/donaldthelameduck-pages/rss.xml" rel="self" type="application/rss+xml" />
+    <item><title>They Won. He Accepted.</title><link>https://brettalan128.github.io/donaldthelameduck-pages/strip/2026-07-22-they-won-he-accepted/</link><guid isPermaLink="true">https://brettalan128.github.io/donaldthelameduck-pages/strip/2026-07-22-they-won-he-accepted/</guid><pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate><description>Champion ducks win the cup, while Donald turns their victory photo into his own acceptance pose. Political satire based on public reporting. Dialogue attributed to Donald is invented. Sources: The White House: https://www.whitehouse.gov/videos/president-trump-participates-in-a-fifa-world-cup-trophy-ceremony/ The Washington Post: https://www.washingtonpost.com/politics/2026/07/19/trump-loomed-over-world-cup-up-until-awkward-trophy-ceremony/ Los Angeles Times: https://www.latimes.com/sports/soccer/story/2026-07-20/trump-world-cup-trophy-spain-fifa-infantino-rodri</description><enclosure url="https://brettalan128.github.io/donaldthelameduck-pages/strip/2026-07-22-they-won-he-accepted/strip-og.png" length="158031" type="image/png" /></item>
+  </channel>
+</rss>

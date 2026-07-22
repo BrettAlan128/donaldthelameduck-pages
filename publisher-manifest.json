@@ -1,30 +1,75 @@
 {
   "schema_version": 1,
-  "canonical_revision": "13a3641f84e332eea209554bcd41a044711018e2",
+  "canonical_revision": "3ac1f105748848c7f52c19836d954dea57673205",
+  "base_url": "https://brettalan128.github.io/donaldthelameduck-pages",
   "files": {
-    "CNAME": {
-      "sha256": "f285d6135e27841d5d02938329abb073592162f66ab05d9ff1efe2967dd41536",
-      "bytes": 22
+    "about/index.html": {
+      "sha256": "6c5c5f22b3cd19996c40bcbb66e537960acdddef72e0955b4461d56bc3419ca5",
+      "bytes": 3434
+    },
+    "archive/index.html": {
+      "sha256": "e75f7aed94b22d591c589c2325ddaf13512040513e9b4da2c4d3396a6efafb49",
+      "bytes": 3365
+    },
+    "images/merch/very-proud-of-us-sticker/very-proud-of-us-sticker-v1.png": {
+      "sha256": "c623bea155787b22db034fbedd50c72b89a4b309e9a6aab3f8b24a2b4aa09dc8",
+      "bytes": 153318
     },
     "index.html": {
-      "sha256": "b0096b40c392685d08d11814096cf90c8e4eea24eb7e38993679f17c4a16feb7",
-      "bytes": 9780
+      "sha256": "c924e2f8f115c67bb2233fc2ec89d43a70d84fbf520107de16be7e02780ac2ae",
+      "bytes": 5221
+    },
+    "robots.txt": {
+      "sha256": "83753a1079be46c59d583fa9572deabacf56fdfb7f80964bfa1b5a41e692f07c",
+      "bytes": 99
+    },
+    "rss.xml": {
+      "sha256": "fbe13aa38e7aab4a532ec3517c12a6c9b8073bb54202483a3061d1f6d138c5bc",
+      "bytes": 1568
     },
     "shop.html": {
-      "sha256": "15ab2eae62ffa83f705647eb5778c2ee4691b0ea0dfb0705b9a3daab8fe2a833",
-      "bytes": 3572
+      "sha256": "cdb354fce9f9b6a017ddd6e844f3f879ea05d747567422259551ddaf86c0fee8",
+      "bytes": 3929
+    },
+    "sitemap.xml": {
+      "sha256": "e11f1b5f25723159c25cad2fb6703b13982b21bfbe02f57a9c7f4fb09b3b047d",
+      "bytes": 658
+    },
+    "strip/2026-07-22-they-won-he-accepted/index.html": {
+      "sha256": "dac9ce0d4cf9abe16dd86e09652629bcb5f0d4f0a506ea8c85ce5fa7701d8b2a",
+      "bytes": 6012
+    },
+    "strip/2026-07-22-they-won-he-accepted/panel-01.png": {
+      "sha256": "64e39b9ef41a708956b85d66d6c5e1cf8c77e4a68735eba0ca995dd43eecf219",
+      "bytes": 106276
+    },
+    "strip/2026-07-22-they-won-he-accepted/panel-02.png": {
+      "sha256": "22ab0bf252a9dd5bb079b40c6e00bfd1cfc6eca1063a458da82a8abb1fd24b8c",
+      "bytes": 107758
+    },
+    "strip/2026-07-22-they-won-he-accepted/panel-03.png": {
+      "sha256": "df3bbfc97fa00536ae167f32bc7d8d657394cb4e4bcb08eee6a4b4ddf024387d",
+      "bytes": 107154
+    },
+    "strip/2026-07-22-they-won-he-accepted/strip-og.png": {
+      "sha256": "5d76bb335c8302535fe1ceb31335297c8a1685c9e4b26299b4a9634b5a211a12",
+      "bytes": 158031
+    },
+    "strip/2026-07-22-they-won-he-accepted/strip-square.png": {
+      "sha256": "9d4fb468169e9b8650c1a4ce466e946b2aac1df23cb913767eadefe30d926a47",
+      "bytes": 148830
+    },
+    "strip/2026-07-22-they-won-he-accepted/strip-thumb.png": {
+      "sha256": "0c69ee5574d8506d4017cc5ad9bfb4bef509f9cacc8d6b771047b29bff2eccfe",
+      "bytes": 57981
+    },
+    "strip/2026-07-22-they-won-he-accepted/strip-wide.png": {
+      "sha256": "7a6935ab632f6cbdbb5ce6e005e704b3c7b70f8e99d50ee07bbd131caad59236",
+      "bytes": 315343
     },
     "styles.css": {
-      "sha256": "89cce028a144a9cf773a0c1f59dd3b4cb50e36a70d46cd883d4af4fd8873b917",
-      "bytes": 20182
-    },
-    "images/art/launch-hero-donald-v2-web.png": {
-      "sha256": "1ba0f189f293a90abe12849b7825012b0ec931764deb6cb1a127c97fe5521d2c",
-      "bytes": 655950
-    },
-    "images/merch/perfect-very-aquatic-sticker/perfect-very-aquatic-sticker-preview-v1.png": {
-      "sha256": "056b4d882972547fe1bdaa14cb69407c6a2a4d9c74f784efab0fbce17956d668",
-      "bytes": 450312
+      "sha256": "671acd297ccfe5d33431653fe0de1c4a766e566f0508ee497881fdd903ac8189",
+      "bytes": 24514
     }
   },
   "generated_files": [

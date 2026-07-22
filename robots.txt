@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://brettalan128.github.io/donaldthelameduck-pages/sitemap.xml

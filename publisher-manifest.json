@@ -1,23 +1,115 @@
 {
   "schema_version": 1,
-  "canonical_revision": "3ac1f105748848c7f52c19836d954dea57673205",
+  "canonical_revision": "cast-publication-v1",
   "base_url": "https://brettalan128.github.io/donaldthelameduck-pages",
   "files": {
     "about/index.html": {
-      "sha256": "6c5c5f22b3cd19996c40bcbb66e537960acdddef72e0955b4461d56bc3419ca5",
-      "bytes": 3434
+      "sha256": "94b209956d05a0baa8cb860d55e04a7d6acf6565af2b99dd6d2f7024583d92f1",
+      "bytes": 4076
     },
     "archive/index.html": {
-      "sha256": "e75f7aed94b22d591c589c2325ddaf13512040513e9b4da2c4d3396a6efafb49",
-      "bytes": 3365
+      "sha256": "6992990768e60799a8e5ad44bd44a5f97ba308f0e90fabc3c5b88388a6d74009",
+      "bytes": 3500
     },
-    "images/merch/very-proud-of-us-sticker/very-proud-of-us-sticker-v1.png": {
+    "cast/donald/index.html": {
+      "sha256": "2cf713d1e57142b7442b9a816f16d716478c1af0ef9b3b9ea70dfa67998f07d1",
+      "bytes": 5428
+    },
+    "cast/donald/portrait.png": {
+      "sha256": "c45ccf4ebe9b227ba2a4ff2067fcbc3148e85b255f9dcec3fa85f4bde30d80f1",
+      "bytes": 22244
+    },
+    "cast/index.html": {
+      "sha256": "12d551c41bc578479b60ab4b83c44ccdfb82858213b5ea4af2cd02d35af719ce",
+      "bytes": 7200
+    },
+    "cast/jd-vance/index.html": {
+      "sha256": "f2ed07ec0bef669393b23da76cf1dffed46b9d520b12483ceaf53b652a994457",
+      "bytes": 5320
+    },
+    "cast/jd-vance/portrait.png": {
+      "sha256": "412df204e712361bce0b3d7123977bfda4d210530a3c0792cb888a31e945570d",
+      "bytes": 7847
+    },
+    "cast/marco-rubio/index.html": {
+      "sha256": "45b3acbfb480545c1486fd384b0727946140603accf30d83c66047f7f0e1ee7a",
+      "bytes": 5377
+    },
+    "cast/marco-rubio/portrait.png": {
+      "sha256": "6aefa47cef33b5ec8d8000b398bcea0971fe9c8fa887daa0a98f46bd6d86b808",
+      "bytes": 4566
+    },
+    "cast/markwayne-mullin/index.html": {
+      "sha256": "e0f76eb45da28e2cb50552c7d85540476c3f8607c93a5143898eddd694a18f9c",
+      "bytes": 5733
+    },
+    "cast/markwayne-mullin/portrait.png": {
+      "sha256": "8326f9d2b901de02cd6c49b3f7213f08f151ac37ad632d997e33524a3fa1323e",
+      "bytes": 7879
+    },
+    "cast/pete-hegseth/index.html": {
+      "sha256": "d8ea37ca509a9e74c347ebb14b69804d35fa4f2b16ca54ae40e1f5089e3417c9",
+      "bytes": 5483
+    },
+    "cast/pete-hegseth/portrait.png": {
+      "sha256": "7c5bd4b5cdc69dd63f6e9c9f1f5634e8805bf843042165c75a337c5d454481d4",
+      "bytes": 7379
+    },
+    "cast/robert-f-kennedy-jr/index.html": {
+      "sha256": "70d62baff3a4cc1abda365e8227376bcebea399af722ee05945951d2e0983fa1",
+      "bytes": 5578
+    },
+    "cast/robert-f-kennedy-jr/portrait.png": {
+      "sha256": "05f02d3e3eef7b35d2628a72236077bacd534fac8bf19f2ae499dc7746fe0557",
+      "bytes": 7438
+    },
+    "cast/scott-bessent/index.html": {
+      "sha256": "fbe2425937facf867937310bb329f0ecbb5eb0e106da1b8905817a7caf55da96",
+      "bytes": 5500
+    },
+    "cast/scott-bessent/portrait.png": {
+      "sha256": "8a2422615e59cca0fd015a42f0bcd40d55d374bebbcf286681c1556fffc702cc",
+      "bytes": 5208
+    },
+    "index.html": {
+      "sha256": "a0a9a282a31f036a4600d025968658c95782093cc860d32b5cdce056057a7231",
+      "bytes": 9511
+    },
+    "product/big-win-die-cut-sticker/index.html": {
+      "sha256": "80b246373aaf95367680e8bc3a9aea41ec0f10636ffc14fab3848149abee795a",
+      "bytes": 5192
+    },
+    "product/big-win-die-cut-sticker/preview.png": {
+      "sha256": "1e4760de4f157357e12c9d3385005c50acc066f5bc048c2258e38e775425b921",
+      "bytes": 127692
+    },
+    "product/cabinet-roll-call-print/index.html": {
+      "sha256": "d90d82baa5fd913d4d8d580b54ca620c15a970149e1d525bb72f429dde64f0fc",
+      "bytes": 5171
+    },
+    "product/cabinet-roll-call-print/preview.png": {
+      "sha256": "0f04b156b82c9bcfc727e58a359ece0fa35310cbfcf26b7134344d45bf0ebd62",
+      "bytes": 232038
+    },
+    "product/they-won-archival-print/index.html": {
+      "sha256": "79156688a6cebe494d1a2c2419669a0105a1b73dfc3dd4751e1b5eb9ed07b60e",
+      "bytes": 5197
+    },
+    "product/they-won-archival-print/preview.png": {
+      "sha256": "7d803fda4569050061212dcd1d9433b44bd7467b61dbca501eb7467fd57458bd",
+      "bytes": 147251
+    },
+    "product/very-proud-of-us-sticker/index.html": {
+      "sha256": "f8405e2fd3bb767beed51d2b9f59b3ecd089327af784cfb2e127816706541201",
+      "bytes": 5044
+    },
+    "product/very-proud-of-us-sticker/preview.png": {
       "sha256": "c623bea155787b22db034fbedd50c72b89a4b309e9a6aab3f8b24a2b4aa09dc8",
       "bytes": 153318
     },
-    "index.html": {
-      "sha256": "c924e2f8f115c67bb2233fc2ec89d43a70d84fbf520107de16be7e02780ac2ae",
-      "bytes": 5221
+    "receipts/index.html": {
+      "sha256": "071ccb9e62c51a7ba2e711b6e9e8f32d0fde424a7e35680dd8cf20fdc343ec55",
+      "bytes": 4212
     },
     "robots.txt": {
       "sha256": "83753a1079be46c59d583fa9572deabacf56fdfb7f80964bfa1b5a41e692f07c",
@@ -28,16 +120,16 @@
       "bytes": 1568
     },
     "shop.html": {
-      "sha256": "cdb354fce9f9b6a017ddd6e844f3f879ea05d747567422259551ddaf86c0fee8",
-      "bytes": 3929
+      "sha256": "a16d3852ee059563200175186510e680add2b5dcc916ca6b316cbce7a4b6aeef",
+      "bytes": 6394
     },
     "sitemap.xml": {
-      "sha256": "e11f1b5f25723159c25cad2fb6703b13982b21bfbe02f57a9c7f4fb09b3b047d",
-      "bytes": 658
+      "sha256": "f893b27761b3574d22b1a0faeb933d48a8b3717798eeb845d20d45ab9ad7736c",
+      "bytes": 2171
     },
     "strip/2026-07-22-they-won-he-accepted/index.html": {
-      "sha256": "dac9ce0d4cf9abe16dd86e09652629bcb5f0d4f0a506ea8c85ce5fa7701d8b2a",
-      "bytes": 6012
+      "sha256": "cc880179ed892c731faafbed170aa66c13d3511a61ddf87629d7b1ee5a17368d",
+      "bytes": 6503
     },
     "strip/2026-07-22-they-won-he-accepted/panel-01.png": {
       "sha256": "64e39b9ef41a708956b85d66d6c5e1cf8c77e4a68735eba0ca995dd43eecf219",
@@ -68,8 +160,8 @@
       "bytes": 315343
     },
     "styles.css": {
-      "sha256": "671acd297ccfe5d33431653fe0de1c4a766e566f0508ee497881fdd903ac8189",
-      "bytes": 24514
+      "sha256": "8457eb4fba9b19bff863d678e393c48439ae5cb88147e820794ef6a9fedd18d4",
+      "bytes": 34998
     }
   },
   "generated_files": [

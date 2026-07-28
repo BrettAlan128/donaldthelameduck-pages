@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
-  "canonical_revision": "cast-publication-v1",
+  "canonical_revision": "7c16bbf77847a2d59ec9ff27bd3bb0eeadd6a432",
   "base_url": "https://brettalan128.github.io/donaldthelameduck-pages",
   "files": {
     "about/index.html": {
-      "sha256": "94b209956d05a0baa8cb860d55e04a7d6acf6565af2b99dd6d2f7024583d92f1",
-      "bytes": 4076
+      "sha256": "eb37f39134e5e9be8268edb9baa555fdb5583684c027bc69b9ce76370584aae8",
+      "bytes": 4094
     },
     "archive/index.html": {
-      "sha256": "6992990768e60799a8e5ad44bd44a5f97ba308f0e90fabc3c5b88388a6d74009",
-      "bytes": 3500
+      "sha256": "0b658f677349b8fc7f8200b8bb160490042427f3e721646321313b05e788e04a",
+      "bytes": 6635
     },
     "cast/donald/index.html": {
       "sha256": "2cf713d1e57142b7442b9a816f16d716478c1af0ef9b3b9ea70dfa67998f07d1",
@@ -72,8 +72,8 @@
       "bytes": 5208
     },
     "index.html": {
-      "sha256": "a0a9a282a31f036a4600d025968658c95782093cc860d32b5cdce056057a7231",
-      "bytes": 9511
+      "sha256": "774cb19ff33051e197ff52ce9819a6787689712354be0b9ca4473f097e69b8c3",
+      "bytes": 9701
     },
     "product/big-win-die-cut-sticker/index.html": {
       "sha256": "80b246373aaf95367680e8bc3a9aea41ec0f10636ffc14fab3848149abee795a",
@@ -108,28 +108,28 @@
       "bytes": 153318
     },
     "receipts/index.html": {
-      "sha256": "071ccb9e62c51a7ba2e711b6e9e8f32d0fde424a7e35680dd8cf20fdc343ec55",
-      "bytes": 4212
+      "sha256": "f3c30feac87fc434139f79188607b7f25a221a4ea1e40c6b311b1b0ba593523f",
+      "bytes": 9771
     },
     "robots.txt": {
       "sha256": "83753a1079be46c59d583fa9572deabacf56fdfb7f80964bfa1b5a41e692f07c",
       "bytes": 99
     },
     "rss.xml": {
-      "sha256": "fbe13aa38e7aab4a532ec3517c12a6c9b8073bb54202483a3061d1f6d138c5bc",
-      "bytes": 1568
+      "sha256": "a1c30c8d5e3d4dd0c80a4d967bbd395cb403a291c40e0637949e85261696994c",
+      "bytes": 8106
     },
     "shop.html": {
       "sha256": "a16d3852ee059563200175186510e680add2b5dcc916ca6b316cbce7a4b6aeef",
       "bytes": 6394
     },
     "sitemap.xml": {
-      "sha256": "f893b27761b3574d22b1a0faeb933d48a8b3717798eeb845d20d45ab9ad7736c",
-      "bytes": 2171
+      "sha256": "032ecb27b3ceea85937b087ef95dfe54c742a14eeaf2d54e1df0f238cb51ef11",
+      "bytes": 3116
     },
     "strip/2026-07-22-they-won-he-accepted/index.html": {
-      "sha256": "cc880179ed892c731faafbed170aa66c13d3511a61ddf87629d7b1ee5a17368d",
-      "bytes": 6503
+      "sha256": "daa770a3953184d8595a1067ba129b585535ad5e7daa54c54aa2b11f3bab91a2",
+      "bytes": 6606
     },
     "strip/2026-07-22-they-won-he-accepted/panel-01.png": {
       "sha256": "64e39b9ef41a708956b85d66d6c5e1cf8c77e4a68735eba0ca995dd43eecf219",
@@ -158,6 +158,198 @@
     "strip/2026-07-22-they-won-he-accepted/strip-wide.png": {
       "sha256": "7a6935ab632f6cbdbb5ce6e005e704b3c7b70f8e99d50ee07bbd131caad59236",
       "bytes": 315343
+    },
+    "strip/2026-07-23-the-bridge-is-open-the-ribbon-is-closed/index.html": {
+      "sha256": "f05c35ab83c8cc3f80ffe3cf0e6323454107fdfe2cd4ae1bf0e3e76c5b78b5ef",
+      "bytes": 7192
+    },
+    "strip/2026-07-23-the-bridge-is-open-the-ribbon-is-closed/panel-01.png": {
+      "sha256": "d3391f9e71ce0d3f39e696a0c1d92c2b1b6c8cc39e47647e340f1282d1ddd03e",
+      "bytes": 66191
+    },
+    "strip/2026-07-23-the-bridge-is-open-the-ribbon-is-closed/panel-02.png": {
+      "sha256": "e9224b78a7ef6cfd440a5303fb4d01a55850a269d92539c59eea2c9e0475c366",
+      "bytes": 71035
+    },
+    "strip/2026-07-23-the-bridge-is-open-the-ribbon-is-closed/panel-03.png": {
+      "sha256": "c30daff1c63e31f854cd5eb861a7afa6b856626957f35be6726497703011c54d",
+      "bytes": 73219
+    },
+    "strip/2026-07-23-the-bridge-is-open-the-ribbon-is-closed/strip-og.png": {
+      "sha256": "e90ee6c7f5bd063fd47e99b398e815508e60756e3d697829dee6c0f99bc26db7",
+      "bytes": 93081
+    },
+    "strip/2026-07-23-the-bridge-is-open-the-ribbon-is-closed/strip-square.png": {
+      "sha256": "6f5caab79c20ed7fe8535f11865583217156783235d83dd5b388b27d66e2dc52",
+      "bytes": 94951
+    },
+    "strip/2026-07-23-the-bridge-is-open-the-ribbon-is-closed/strip-thumb.png": {
+      "sha256": "6143ceb6e1a2d6083aab8ba3600058be6e6afaac00a9958211372e63a6aeb18f",
+      "bytes": 33067
+    },
+    "strip/2026-07-23-the-bridge-is-open-the-ribbon-is-closed/strip-wide.png": {
+      "sha256": "9de84bb77329c165b1808dc2399ab7bbbb0434c7238abaf082439ab00038e294",
+      "bytes": 155314
+    },
+    "strip/2026-07-24-the-ceremony-offers-carry-out/index.html": {
+      "sha256": "b1fdd454ab50ab9c6f3ba7846d31a8a334f16bfec7e23a52a353509d7e4fb447",
+      "bytes": 6657
+    },
+    "strip/2026-07-24-the-ceremony-offers-carry-out/panel-01.png": {
+      "sha256": "b800c78a45a9f4b9e4200eb42897ded5f2765703f0a8727a5b09b2a81927ae99",
+      "bytes": 56692
+    },
+    "strip/2026-07-24-the-ceremony-offers-carry-out/panel-02.png": {
+      "sha256": "960d742a9c876c6198127487d26fd42115e6a1472adf260454190b6d61b0d783",
+      "bytes": 61906
+    },
+    "strip/2026-07-24-the-ceremony-offers-carry-out/panel-03.png": {
+      "sha256": "e9b3f38fd2865a488a99bbf5efe26bb6b7a3cf415f1c4de6037a575284849742",
+      "bytes": 46133
+    },
+    "strip/2026-07-24-the-ceremony-offers-carry-out/strip-og.png": {
+      "sha256": "b9b6bcc2a3ec727b4855536c562c32157db18992ba4e7cd18960a35c966816be",
+      "bytes": 99540
+    },
+    "strip/2026-07-24-the-ceremony-offers-carry-out/strip-square.png": {
+      "sha256": "de3f29705aac4541a11ad1f3e2fcc56dea73e79c108b1627248b53924e3c08d0",
+      "bytes": 99763
+    },
+    "strip/2026-07-24-the-ceremony-offers-carry-out/strip-thumb.png": {
+      "sha256": "de7d755f699031aeda41abcd15c095d2cb833ddc5f8998afd8c7e381d3f22bee",
+      "bytes": 36738
+    },
+    "strip/2026-07-24-the-ceremony-offers-carry-out/strip-wide.png": {
+      "sha256": "55179cc9b7e21885387c8e3138d4cdb6741357c7f54c7128b7993262f7155502",
+      "bytes": 149120
+    },
+    "strip/2026-07-25-the-exhibit-starts-outside/index.html": {
+      "sha256": "e40e897d47639481e4162ab1ad1799331e1788d96c88a10611e4ee0aea727cd6",
+      "bytes": 6587
+    },
+    "strip/2026-07-25-the-exhibit-starts-outside/panel-01.png": {
+      "sha256": "45b02ccce67e492c1cfd353b7261232dc07ba04069a062c450d7995d4f5e613a",
+      "bytes": 47980
+    },
+    "strip/2026-07-25-the-exhibit-starts-outside/panel-02.png": {
+      "sha256": "50266140e269728b1f1f403ecf892f7881d4419b1ad0c7b2ffa210686a2c1d27",
+      "bytes": 52541
+    },
+    "strip/2026-07-25-the-exhibit-starts-outside/panel-03.png": {
+      "sha256": "7537e67c9e47ab8d4b57e4d06bd31e028a59ce596caaa394c997c7ba45056c40",
+      "bytes": 53490
+    },
+    "strip/2026-07-25-the-exhibit-starts-outside/strip-og.png": {
+      "sha256": "28a92d1455ca38de3b6e5df0b206ce839c38f2690d5717d1f684815ce9cba87e",
+      "bytes": 86303
+    },
+    "strip/2026-07-25-the-exhibit-starts-outside/strip-square.png": {
+      "sha256": "e6e1371fec7ef0bb3f2bf30f84b968e7fc52f103bb8a1a10a02ebc35ffc94b94",
+      "bytes": 89996
+    },
+    "strip/2026-07-25-the-exhibit-starts-outside/strip-thumb.png": {
+      "sha256": "adfd48b63e3e3b22075428905e7d162c20eacda3227d8dfc50928fc29cde4d8b",
+      "bytes": 33715
+    },
+    "strip/2026-07-25-the-exhibit-starts-outside/strip-wide.png": {
+      "sha256": "d3610d9153bbabf909ffea83c205d3feae1dfd861212f24accd454444c484a73",
+      "bytes": 127618
+    },
+    "strip/2026-07-26-the-apology-comes-pre-installed/index.html": {
+      "sha256": "9386575dfe0694b9c39bbd531db3ade7d6c14d30787d73a7159296f6d3f103ee",
+      "bytes": 7182
+    },
+    "strip/2026-07-26-the-apology-comes-pre-installed/panel-01.png": {
+      "sha256": "a50b67601bf033114db1442cf085c49cb0bcb9b92dca492a72d7a66f41782cd8",
+      "bytes": 56220
+    },
+    "strip/2026-07-26-the-apology-comes-pre-installed/panel-02.png": {
+      "sha256": "f4423b94fa99efeb887de105d1e8820659eb057b9a47e18b209d524975144162",
+      "bytes": 62722
+    },
+    "strip/2026-07-26-the-apology-comes-pre-installed/panel-03.png": {
+      "sha256": "8ee0c4c3c1d898fc3828b885a25c7e272b882b134c768a248c1af6d9391cb2ce",
+      "bytes": 61016
+    },
+    "strip/2026-07-26-the-apology-comes-pre-installed/strip-og.png": {
+      "sha256": "c593fb1db8ec748860432da859e73298cb1ce99f9de061d63468e7a76b37011f",
+      "bytes": 111299
+    },
+    "strip/2026-07-26-the-apology-comes-pre-installed/strip-square.png": {
+      "sha256": "4bb9ec47eba3a4ee09d86cf8ddcffeaba9d2b80796bccdac552f369af6026a7b",
+      "bytes": 113605
+    },
+    "strip/2026-07-26-the-apology-comes-pre-installed/strip-thumb.png": {
+      "sha256": "dd0d940046950745a0fa4670b0c552d9bdd21b518a34ea6de8504a63b25d7107",
+      "bytes": 44445
+    },
+    "strip/2026-07-26-the-apology-comes-pre-installed/strip-wide.png": {
+      "sha256": "13d40d6a60f2241e4181530cd7fa6c21e17c022df66c494ceacc8a18aa8a5262",
+      "bytes": 162975
+    },
+    "strip/2026-07-27-the-dessert-course-runs-again/index.html": {
+      "sha256": "4ece0cd601f4dff435351e92d93b5b7ef39bb4eac02b3bc89e294131fbac1aa1",
+      "bytes": 7015
+    },
+    "strip/2026-07-27-the-dessert-course-runs-again/panel-01.png": {
+      "sha256": "01fe975b81e6268acdbfd6bad2a2b0572e67768300bf62c61e7fcd61bdc10893",
+      "bytes": 79078
+    },
+    "strip/2026-07-27-the-dessert-course-runs-again/panel-02.png": {
+      "sha256": "899f259b6cfde234c9dbb2a2f6c56ffefef54b14e444802068c109d0034aca2c",
+      "bytes": 77390
+    },
+    "strip/2026-07-27-the-dessert-course-runs-again/panel-03.png": {
+      "sha256": "405ea1d59065a2e8590c1bb14f2a4230574b2ce0c30c5fe15711bdacac173bea",
+      "bytes": 66932
+    },
+    "strip/2026-07-27-the-dessert-course-runs-again/strip-og.png": {
+      "sha256": "5e4498f2d7bbb0d8006a7289fe03b56f03578ae4d7bc337db448bdfdf7973b86",
+      "bytes": 114946
+    },
+    "strip/2026-07-27-the-dessert-course-runs-again/strip-square.png": {
+      "sha256": "f5c103a909248b510a2ba694b43ab3583d64f2561676a8329fa9b47dc3ef2003",
+      "bytes": 113187
+    },
+    "strip/2026-07-27-the-dessert-course-runs-again/strip-thumb.png": {
+      "sha256": "e6e494f5a97a85aa6a0497e314257958beb977b3699916f11b6751799147a03e",
+      "bytes": 43417
+    },
+    "strip/2026-07-27-the-dessert-course-runs-again/strip-wide.png": {
+      "sha256": "1d87ee2d4acb131130f082591958e15281d16045dacf067a14e43432d84ee12e",
+      "bytes": 190098
+    },
+    "strip/2026-07-28-the-mail-slot-needs-a-bouncer/index.html": {
+      "sha256": "251198d58558920608d4aef818ae56e13b7f2664e33e8b13486c75488cdd015e",
+      "bytes": 6536
+    },
+    "strip/2026-07-28-the-mail-slot-needs-a-bouncer/panel-01.png": {
+      "sha256": "123aee818af398e8ba4bf267cfaed6b076f243490d86f778d99861461fc4e50a",
+      "bytes": 66811
+    },
+    "strip/2026-07-28-the-mail-slot-needs-a-bouncer/panel-02.png": {
+      "sha256": "994e1e22bbb68052661a3bdf1a16a2a016394dea06c6d462834f0e2183d03827",
+      "bytes": 63214
+    },
+    "strip/2026-07-28-the-mail-slot-needs-a-bouncer/panel-03.png": {
+      "sha256": "afd82d99f584da73055a375f0c9d54c4307c238400cf736560c61bb80f1e1d0b",
+      "bytes": 55846
+    },
+    "strip/2026-07-28-the-mail-slot-needs-a-bouncer/strip-og.png": {
+      "sha256": "cadbdb2a5a3b6046728aca7afa2496c717087f43eed9d5fc1f9941274f883a09",
+      "bytes": 104506
+    },
+    "strip/2026-07-28-the-mail-slot-needs-a-bouncer/strip-square.png": {
+      "sha256": "1b59cd96ca3395b4ee94e7291e46e702d3c85fe6c58b89123a93779faf9f572e",
+      "bytes": 106700
+    },
+    "strip/2026-07-28-the-mail-slot-needs-a-bouncer/strip-thumb.png": {
+      "sha256": "d29a1aee505363f4041c290232684c508792a9f2b374afc4d6f0186d595c5487",
+      "bytes": 39516
+    },
+    "strip/2026-07-28-the-mail-slot-needs-a-bouncer/strip-wide.png": {
+      "sha256": "66ef9f5639cb03ee4c72a6f0949ed54f98e5e1d93870b24d237aee19a88039d9",
+      "bytes": 167092
     },
     "styles.css": {
       "sha256": "8457eb4fba9b19bff863d678e393c48439ae5cb88147e820794ef6a9fedd18d4",

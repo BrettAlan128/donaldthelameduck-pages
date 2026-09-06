@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
-  "canonical_revision": "7c16bbf77847a2d59ec9ff27bd3bb0eeadd6a432",
+  "canonical_revision": "4a96546a0294f897fa5b091d22f1c2c9cce1fa86",
   "base_url": "https://brettalan128.github.io/donaldthelameduck-pages",
   "files": {
     "about/index.html": {
-      "sha256": "eb37f39134e5e9be8268edb9baa555fdb5583684c027bc69b9ce76370584aae8",
-      "bytes": 4094
+      "sha256": "35abf2148a2c32c39966df35c3e88025d64c93ce131a594fe66e59b78750be15",
+      "bytes": 4064
     },
     "archive/index.html": {
-      "sha256": "0b658f677349b8fc7f8200b8bb160490042427f3e721646321313b05e788e04a",
-      "bytes": 6635
+      "sha256": "ff14bf61b0c90e402f35d1a70a5f2d2153e853923e439b92a9123954e60c024f",
+      "bytes": 14367
     },
     "cast/donald/index.html": {
       "sha256": "2cf713d1e57142b7442b9a816f16d716478c1af0ef9b3b9ea70dfa67998f07d1",
@@ -72,8 +72,8 @@
       "bytes": 5208
     },
     "index.html": {
-      "sha256": "774cb19ff33051e197ff52ce9819a6787689712354be0b9ca4473f097e69b8c3",
-      "bytes": 9701
+      "sha256": "57b0b9327022e93759d578ca1b768a5058346c81f390f3405c68598fe066d7d4",
+      "bytes": 9873
     },
     "product/big-win-die-cut-sticker/index.html": {
       "sha256": "80b246373aaf95367680e8bc3a9aea41ec0f10636ffc14fab3848149abee795a",
@@ -108,24 +108,24 @@
       "bytes": 153318
     },
     "receipts/index.html": {
-      "sha256": "f3c30feac87fc434139f79188607b7f25a221a4ea1e40c6b311b1b0ba593523f",
-      "bytes": 9771
+      "sha256": "d88a1d637cba2e4b1056f9b6ccbdb981572b8ec0a273688ddecdf31e6724258f",
+      "bytes": 22871
     },
     "robots.txt": {
       "sha256": "83753a1079be46c59d583fa9572deabacf56fdfb7f80964bfa1b5a41e692f07c",
       "bytes": 99
     },
     "rss.xml": {
-      "sha256": "a1c30c8d5e3d4dd0c80a4d967bbd395cb403a291c40e0637949e85261696994c",
-      "bytes": 8106
+      "sha256": "08ed1f534aef7018c8b7e8b32a4a56406753ce3b49615e3b40a1d3d84fbd0835",
+      "bytes": 24019
     },
     "shop.html": {
       "sha256": "a16d3852ee059563200175186510e680add2b5dcc916ca6b316cbce7a4b6aeef",
       "bytes": 6394
     },
     "sitemap.xml": {
-      "sha256": "032ecb27b3ceea85937b087ef95dfe54c742a14eeaf2d54e1df0f238cb51ef11",
-      "bytes": 3116
+      "sha256": "7384b7490a819e1d97dd6ef379bf65c83af6ff583fc24690baadc2386d174e77",
+      "bytes": 5465
     },
     "strip/2026-07-22-they-won-he-accepted/index.html": {
       "sha256": "daa770a3953184d8595a1067ba129b585535ad5e7daa54c54aa2b11f3bab91a2",
@@ -320,8 +320,8 @@
       "bytes": 190098
     },
     "strip/2026-07-28-the-mail-slot-needs-a-bouncer/index.html": {
-      "sha256": "251198d58558920608d4aef818ae56e13b7f2664e33e8b13486c75488cdd015e",
-      "bytes": 6536
+      "sha256": "d7a783a6c0f43cc70d94e713077f9df2661f28e05c73c86b8f0db98979633ef4",
+      "bytes": 6624
     },
     "strip/2026-07-28-the-mail-slot-needs-a-bouncer/panel-01.png": {
       "sha256": "123aee818af398e8ba4bf267cfaed6b076f243490d86f778d99861461fc4e50a",
@@ -350,6 +350,486 @@
     "strip/2026-07-28-the-mail-slot-needs-a-bouncer/strip-wide.png": {
       "sha256": "66ef9f5639cb03ee4c72a6f0949ed54f98e5e1d93870b24d237aee19a88039d9",
       "bytes": 167092
+    },
+    "strip/2026-07-30-the-desk-gets-a-terminal/index.html": {
+      "sha256": "2b1f077ee0308aec416caf5055d2856194c6f9be62b54e68d5b3e931564efdbd",
+      "bytes": 6649
+    },
+    "strip/2026-07-30-the-desk-gets-a-terminal/panel-01.png": {
+      "sha256": "ff3af4791ee3acc6d1fad130d98e144568bde6e1dcf3e3265b467c000b4fc8ec",
+      "bytes": 60926
+    },
+    "strip/2026-07-30-the-desk-gets-a-terminal/panel-02.png": {
+      "sha256": "1c2c8d494253d7a688d099739f0e79ea3ab54a90927c1a1b8e2c4a8d97470819",
+      "bytes": 61315
+    },
+    "strip/2026-07-30-the-desk-gets-a-terminal/panel-03.png": {
+      "sha256": "cda4b3422b26ae14d126b8d8bc641d457efd6195ab0245f0e41141d15b78661a",
+      "bytes": 61123
+    },
+    "strip/2026-07-30-the-desk-gets-a-terminal/strip-og.png": {
+      "sha256": "e75dc0deea682eaf5b4b36e9cbdfd1d20e7dbdb9839214ed7df5ba27d205e330",
+      "bytes": 102423
+    },
+    "strip/2026-07-30-the-desk-gets-a-terminal/strip-square.png": {
+      "sha256": "666f7374e14ab994c76a1e771cdce4ff822db556b240dbc213909aad5340a5d7",
+      "bytes": 103466
+    },
+    "strip/2026-07-30-the-desk-gets-a-terminal/strip-thumb.png": {
+      "sha256": "04ba8d5afe9c1543331f62f7fb19f3cb2579aba2195299053ff9d921dc042e04",
+      "bytes": 39900
+    },
+    "strip/2026-07-30-the-desk-gets-a-terminal/strip-wide.png": {
+      "sha256": "6ab3881e9995f4d59917f0aef4253dd3acbaba1767fa2ff564ae012b20b95fbc",
+      "bytes": 159251
+    },
+    "strip/2026-07-31-the-discount-checks-out-early/index.html": {
+      "sha256": "ad29489ccbdb2cff366a2243339f41d951bed505cc3f7aba9559286da5273fe6",
+      "bytes": 6772
+    },
+    "strip/2026-07-31-the-discount-checks-out-early/panel-01.png": {
+      "sha256": "eba5c95b1cde7f550865c7205f3f80e5821c08b7e603b6a03e4abf7ad70022af",
+      "bytes": 73505
+    },
+    "strip/2026-07-31-the-discount-checks-out-early/panel-02.png": {
+      "sha256": "0d6875abd479f1df1d069052aa9d62748e50f0fbf7756ac58fd456422cac3e52",
+      "bytes": 74619
+    },
+    "strip/2026-07-31-the-discount-checks-out-early/panel-03.png": {
+      "sha256": "5936e8fd37647dd9d93a82335e67d68449759edccf40706d6c8498f9234f1386",
+      "bytes": 77204
+    },
+    "strip/2026-07-31-the-discount-checks-out-early/strip-og.png": {
+      "sha256": "065f3749811d5f22c16792a63351afa0bf9f91ed1cce06f678b75fb52e20140b",
+      "bytes": 109845
+    },
+    "strip/2026-07-31-the-discount-checks-out-early/strip-square.png": {
+      "sha256": "cf1bfe58ebdc5b77c3b07b6c91dde8aefdc8dddf578c38fdb18b25519392594c",
+      "bytes": 113070
+    },
+    "strip/2026-07-31-the-discount-checks-out-early/strip-thumb.png": {
+      "sha256": "692f97951f7b2cc48e5f70d9f02b562a472c16e8c779466d468f0b14f5eebd76",
+      "bytes": 44098
+    },
+    "strip/2026-07-31-the-discount-checks-out-early/strip-wide.png": {
+      "sha256": "20974583ef9b070c0d323f84874f9b2cc912d5359fece6892b15b2598f1ffe9b",
+      "bytes": 172536
+    },
+    "strip/2026-08-01-the-passport-counter-opens-a-gift-shop/index.html": {
+      "sha256": "7891bb4baafc7985407851a512a996bcfeaaea025649e08fac1e600df05aed91",
+      "bytes": 6760
+    },
+    "strip/2026-08-01-the-passport-counter-opens-a-gift-shop/panel-01.png": {
+      "sha256": "70f779b40dff9fd16afca42d1d777fe3dcae4a8972cdfd850e3832551bc1b7e6",
+      "bytes": 70086
+    },
+    "strip/2026-08-01-the-passport-counter-opens-a-gift-shop/panel-02.png": {
+      "sha256": "c112d9750b3de1144a7407a72016166958960dfe34737f222e778952cc2fdb8b",
+      "bytes": 80956
+    },
+    "strip/2026-08-01-the-passport-counter-opens-a-gift-shop/panel-03.png": {
+      "sha256": "97958f3f5b491d14d38f33b43ce889740297ac12f59f5550bda8735576690bbd",
+      "bytes": 72535
+    },
+    "strip/2026-08-01-the-passport-counter-opens-a-gift-shop/strip-og.png": {
+      "sha256": "78fbef6af42957765aea3ce80f23d9f2563083b03284c242a63981e628376530",
+      "bytes": 128487
+    },
+    "strip/2026-08-01-the-passport-counter-opens-a-gift-shop/strip-square.png": {
+      "sha256": "283d55d7ef4580e1cf1ff712ba2f6e81488315781e9f6bea04047d7fdbc5c97b",
+      "bytes": 125387
+    },
+    "strip/2026-08-01-the-passport-counter-opens-a-gift-shop/strip-thumb.png": {
+      "sha256": "5faaa64fe8c5b417e789770faf104a8d9bd69eb88421d12964c47a6f7b9ecca5",
+      "bytes": 48927
+    },
+    "strip/2026-08-01-the-passport-counter-opens-a-gift-shop/strip-wide.png": {
+      "sha256": "f1af640ebfdfb0ddf9b9d910dd4ba1a23632a5601f7ca28c9167b08e773495e0",
+      "bytes": 207329
+    },
+    "strip/2026-08-03-the-august-exit-needs-clearance/index.html": {
+      "sha256": "6907cf22b44cfaddc037cb888ede760c49193cbd819b1089d732c2da739871b2",
+      "bytes": 6747
+    },
+    "strip/2026-08-03-the-august-exit-needs-clearance/panel-01.png": {
+      "sha256": "fc57a541f361e7a48dcbd0bdee976ea98c3f922efc1927978e49bcd85d93ee0e",
+      "bytes": 70135
+    },
+    "strip/2026-08-03-the-august-exit-needs-clearance/panel-02.png": {
+      "sha256": "e75bec4747ca31ef9a8f39bcf43fe51b34d5f3908cc80a19dec17ec8e460978b",
+      "bytes": 78169
+    },
+    "strip/2026-08-03-the-august-exit-needs-clearance/panel-03.png": {
+      "sha256": "731b5fa2d07c64568c3a67dc13cb473f8d6cd0433bc2f6ef18a8eea9b448aff4",
+      "bytes": 66065
+    },
+    "strip/2026-08-03-the-august-exit-needs-clearance/strip-og.png": {
+      "sha256": "6c0ac390cd942cea93e1fe80d634e95b996ceaa701d1b552eef068f7c8440866",
+      "bytes": 115277
+    },
+    "strip/2026-08-03-the-august-exit-needs-clearance/strip-square.png": {
+      "sha256": "f51292d5863543d47e03373df53d120bd3d14ed3f9e89e88abb8694d95810170",
+      "bytes": 117548
+    },
+    "strip/2026-08-03-the-august-exit-needs-clearance/strip-thumb.png": {
+      "sha256": "1b26fa6563cdc6c5f3f8ec83676a0a6adde6805775b3ccbd1054e3aae06caeea",
+      "bytes": 45566
+    },
+    "strip/2026-08-03-the-august-exit-needs-clearance/strip-wide.png": {
+      "sha256": "9ab5fe815e97242ab749fbbb14bafa70f4b5770ad9b0fac8938cd60623d99097",
+      "bytes": 189676
+    },
+    "strip/2026-08-07-the-ballroom-still-needs-the-house/index.html": {
+      "sha256": "8155e3583ec834aa9beb3e14f7380a09532556c53ac3182287f88c6ee61c8145",
+      "bytes": 6520
+    },
+    "strip/2026-08-07-the-ballroom-still-needs-the-house/panel-01.png": {
+      "sha256": "f1baf291716136358ab395eeaf355e405749b03da1671a5c4f6ef3f5c0e2e0c1",
+      "bytes": 74560
+    },
+    "strip/2026-08-07-the-ballroom-still-needs-the-house/panel-02.png": {
+      "sha256": "5110326b974711ab64ee1cb386c8326b6a54010890c42c581f4a67cc5c924b08",
+      "bytes": 77475
+    },
+    "strip/2026-08-07-the-ballroom-still-needs-the-house/panel-03.png": {
+      "sha256": "b072a06b8b221dd189b3ed7663c987fcbd42eaf411b4f22209ac90bece0feff1",
+      "bytes": 70172
+    },
+    "strip/2026-08-07-the-ballroom-still-needs-the-house/strip-og.png": {
+      "sha256": "7b2d2cd01fd8b68914c46473e967d6abc087ac3f58a36c74fa257be4ccc79904",
+      "bytes": 126998
+    },
+    "strip/2026-08-07-the-ballroom-still-needs-the-house/strip-square.png": {
+      "sha256": "fe2ae8136ac8af3b690364c985b198a968265ad2ec94090869259919561f1a21",
+      "bytes": 127747
+    },
+    "strip/2026-08-07-the-ballroom-still-needs-the-house/strip-thumb.png": {
+      "sha256": "81b6cb68719b97f8ca2af15742001752bfd2db1734de7bdeb3738c467f8f830c",
+      "bytes": 50603
+    },
+    "strip/2026-08-07-the-ballroom-still-needs-the-house/strip-wide.png": {
+      "sha256": "a80d6c3ca679490be33950e014e3b6e2f81e2f868668c42d9aa8343f642f88f7",
+      "bytes": 203873
+    },
+    "strip/2026-08-08-the-exit-motion-carried-first/index.html": {
+      "sha256": "0831cc8ec31f028012b14fc46b3404b314662d2983b72cf0ba288ec8b09d1ec3",
+      "bytes": 6798
+    },
+    "strip/2026-08-08-the-exit-motion-carried-first/panel-01.png": {
+      "sha256": "e8f500aeb78a73e72b0df9fc689bbcc2f5f266b13057c230654cd824f5c769bb",
+      "bytes": 68539
+    },
+    "strip/2026-08-08-the-exit-motion-carried-first/panel-02.png": {
+      "sha256": "07b63e7ff1acc2990b8cebc0ff97da8edcb4610e3945508a3af1e50047382e3b",
+      "bytes": 60249
+    },
+    "strip/2026-08-08-the-exit-motion-carried-first/panel-03.png": {
+      "sha256": "766e8b194cfd2f4fdd714e86bd59d61f59a323a9fc96452743a3a2684b5e8929",
+      "bytes": 65494
+    },
+    "strip/2026-08-08-the-exit-motion-carried-first/strip-og.png": {
+      "sha256": "de47065b1da2ffcb0477e4a3fab06e1cce53bfb1a5015c2b2aa6f518a2648b64",
+      "bytes": 112711
+    },
+    "strip/2026-08-08-the-exit-motion-carried-first/strip-square.png": {
+      "sha256": "00a01b6c0e1dbb5be6387d97946b94143d904cafc36507780e401ed391467a2f",
+      "bytes": 110918
+    },
+    "strip/2026-08-08-the-exit-motion-carried-first/strip-thumb.png": {
+      "sha256": "0b34b6e8c0c646777560d8fa28ad6dbf2b58f047de8af0b96dba77e4bb3647dd",
+      "bytes": 43007
+    },
+    "strip/2026-08-08-the-exit-motion-carried-first/strip-wide.png": {
+      "sha256": "4b1ebdc0055eb79fcda1850142e1c51caf55926d5ad17b3acd81451279b4f0e7",
+      "bytes": 182504
+    },
+    "strip/2026-08-11-the-posts-get-a-fast-pass/index.html": {
+      "sha256": "f70eeb6fab6c33e37b54d23511d1a608669d1935fa88bde0411802f1802cfed3",
+      "bytes": 6640
+    },
+    "strip/2026-08-11-the-posts-get-a-fast-pass/panel-01.png": {
+      "sha256": "d67089dda9be95efc523e8ee2d70c8df01255ed1dbc29e4d662aa25801d97ca7",
+      "bytes": 70850
+    },
+    "strip/2026-08-11-the-posts-get-a-fast-pass/panel-02.png": {
+      "sha256": "99b98c5b6b312da17eb9ee1eab4e7159caae847b41d5cccb3af6d66168338dd4",
+      "bytes": 77429
+    },
+    "strip/2026-08-11-the-posts-get-a-fast-pass/panel-03.png": {
+      "sha256": "15aeef44f34682e44bbe5c8f5171a32c36318130cb53ca83f7d7be6769c58b95",
+      "bytes": 75520
+    },
+    "strip/2026-08-11-the-posts-get-a-fast-pass/strip-og.png": {
+      "sha256": "9e53229a94b6ba349dc2c61f8841c778903b95fd455ccc4f6d1d0d70e3361d1e",
+      "bytes": 114194
+    },
+    "strip/2026-08-11-the-posts-get-a-fast-pass/strip-square.png": {
+      "sha256": "5b2888117aeee340008ce3f690bd02d176de5f46214f29461b7190a21710772a",
+      "bytes": 114332
+    },
+    "strip/2026-08-11-the-posts-get-a-fast-pass/strip-thumb.png": {
+      "sha256": "b60800ec56beba60c95050d73426e656099a0895393c6f7ee030fdd2a85b01cc",
+      "bytes": 45147
+    },
+    "strip/2026-08-11-the-posts-get-a-fast-pass/strip-wide.png": {
+      "sha256": "07ce597f16ff02b2ae8f6eaa764df4ab6a07ab6093c6962cc3741cf962e89866",
+      "bytes": 205654
+    },
+    "strip/2026-08-12-the-catering-cart-got-clearance/index.html": {
+      "sha256": "fce410283a092efb5393a21bccc950c47d16e28f19ed502992dd1eed2eac5d18",
+      "bytes": 6808
+    },
+    "strip/2026-08-12-the-catering-cart-got-clearance/panel-01.png": {
+      "sha256": "d47dbfb412f6b3ba93a1d59514df68b99671b3bdc58c344ebb531ebc2c7099e3",
+      "bytes": 80643
+    },
+    "strip/2026-08-12-the-catering-cart-got-clearance/panel-02.png": {
+      "sha256": "0c629f49098b6fa929b74af238fe0b5533e79d4c7a6ab6e1d37bd46085487057",
+      "bytes": 78239
+    },
+    "strip/2026-08-12-the-catering-cart-got-clearance/panel-03.png": {
+      "sha256": "f6a7c208b338ddacebcfc1c41b8f7d0e8d4d0f18f3533d1c426e2452905c915a",
+      "bytes": 85926
+    },
+    "strip/2026-08-12-the-catering-cart-got-clearance/strip-og.png": {
+      "sha256": "cf5bdbeb29a3ea81343dc88dc6e3ff40d6518ac856011be3300ad595574c6ef6",
+      "bytes": 131838
+    },
+    "strip/2026-08-12-the-catering-cart-got-clearance/strip-square.png": {
+      "sha256": "a52d4cb8b11bb8b9543d699faba3a1e82f3e5f3bae5864a7422e353db5335130",
+      "bytes": 129608
+    },
+    "strip/2026-08-12-the-catering-cart-got-clearance/strip-thumb.png": {
+      "sha256": "a25436bf3db964b32a675b1844df794953248c84faaadffa5641be639afa0922",
+      "bytes": 51136
+    },
+    "strip/2026-08-12-the-catering-cart-got-clearance/strip-wide.png": {
+      "sha256": "11de6da0a140337a0c6fc15053304a3bd8f8d6e71cf090c36e356cea2aff3443",
+      "bytes": 230186
+    },
+    "strip/2026-08-13-the-briefing-moved-outside/index.html": {
+      "sha256": "9a6a00065912a9c6580641d4ab9045b25b4802e8d6aeee08f02cd6fad697de54",
+      "bytes": 6558
+    },
+    "strip/2026-08-13-the-briefing-moved-outside/panel-01.png": {
+      "sha256": "a453c889bb4ca52a837f59ecf8f83263fbe026cbe24a8747ad6fd48125b142eb",
+      "bytes": 63815
+    },
+    "strip/2026-08-13-the-briefing-moved-outside/panel-02.png": {
+      "sha256": "f94ada771a9b3a668f9a69a9e8a32bbadea2451f1179d8ac9790accc7c5ce37a",
+      "bytes": 63702
+    },
+    "strip/2026-08-13-the-briefing-moved-outside/panel-03.png": {
+      "sha256": "fc80e850913f86e8b83d75160f5242fb1c584e243cafdb0e676fe3a84f9f7910",
+      "bytes": 59923
+    },
+    "strip/2026-08-13-the-briefing-moved-outside/strip-og.png": {
+      "sha256": "4469540457780dfa8cb924e793ceb9f8e22947e8fb0bd449383732b62380a3d3",
+      "bytes": 110843
+    },
+    "strip/2026-08-13-the-briefing-moved-outside/strip-square.png": {
+      "sha256": "cc3b237feceb3dd7236df00d55a06e843d3d26d6e0b50fe2e87a63f3de3d7f1c",
+      "bytes": 114272
+    },
+    "strip/2026-08-13-the-briefing-moved-outside/strip-thumb.png": {
+      "sha256": "47e0547b28ecc0e3285e0194f22e0f36f55330481b2e44ff786d8b898fba74d7",
+      "bytes": 45388
+    },
+    "strip/2026-08-13-the-briefing-moved-outside/strip-wide.png": {
+      "sha256": "29594d09792067efa9522f77f2a03c9a4c8bdcefd1e07d6d05bd4bfafed42cd7",
+      "bytes": 170996
+    },
+    "strip/2026-08-14-the-carrier-went-back-to-steam/index.html": {
+      "sha256": "d61314c82f5d860d1629bc72d26075738b81ef366ff666e70a47f0609e1205f9",
+      "bytes": 7595
+    },
+    "strip/2026-08-14-the-carrier-went-back-to-steam/panel-01.png": {
+      "sha256": "6c58801a4bfa1cfe606bb652d170f95d807eeeb78e01cdd351b80884d024ffdc",
+      "bytes": 75022
+    },
+    "strip/2026-08-14-the-carrier-went-back-to-steam/panel-02.png": {
+      "sha256": "b0fd52abadc4c2a06810f96d8d27c05419782aacb84a678a97b0e44dc96f2911",
+      "bytes": 83249
+    },
+    "strip/2026-08-14-the-carrier-went-back-to-steam/panel-03.png": {
+      "sha256": "c084c6b34513f73e0170778e1b9e383dda3fced12f73ef8fff1668077fe06f74",
+      "bytes": 91913
+    },
+    "strip/2026-08-14-the-carrier-went-back-to-steam/strip-og.png": {
+      "sha256": "b8effd61350acd5c7180adacaddad3bea6e2d2372d1f5c4dce0896c25c362a1c",
+      "bytes": 129815
+    },
+    "strip/2026-08-14-the-carrier-went-back-to-steam/strip-square.png": {
+      "sha256": "912d27daabdc3a3dd78db6941c7879ac891328a1a216cc11b43db88ecd889301",
+      "bytes": 128644
+    },
+    "strip/2026-08-14-the-carrier-went-back-to-steam/strip-thumb.png": {
+      "sha256": "77dca178176dc38b7ea1d2f2d7daad21f8f39bcaa5efaef94b5353b6efbeeef4",
+      "bytes": 49745
+    },
+    "strip/2026-08-14-the-carrier-went-back-to-steam/strip-wide.png": {
+      "sha256": "615f0ef3bc87d0cf99e399ca2aadabfc40eddc87820aa5ae9cf5b15f1f8fb6e2",
+      "bytes": 213002
+    },
+    "strip/2026-08-22-the-report-printed-a-five-billion-receipt/index.html": {
+      "sha256": "1ea19901f62ac6b02696ef57e07c81ea9e40697bb1c9b73d2f1f66da99179b49",
+      "bytes": 7453
+    },
+    "strip/2026-08-22-the-report-printed-a-five-billion-receipt/panel-01.png": {
+      "sha256": "17646fb13a2a788e595d6f70de8fce4741c2a9a4c78d971d78030c84cf4bef59",
+      "bytes": 51811
+    },
+    "strip/2026-08-22-the-report-printed-a-five-billion-receipt/panel-02.png": {
+      "sha256": "1c13770f3078423d75d9253d4d057c1fc89a7a097b1e9f37e92e58d5b31af1d1",
+      "bytes": 55647
+    },
+    "strip/2026-08-22-the-report-printed-a-five-billion-receipt/panel-03.png": {
+      "sha256": "3db6b326d16bf880c2758c0112beb99c36953613523395973fc4ab5cd9940377",
+      "bytes": 62442
+    },
+    "strip/2026-08-22-the-report-printed-a-five-billion-receipt/strip-og.png": {
+      "sha256": "c98b3103f799a9ae3dac26d90a055a1b8a1dd247c663492e37689cbe192f6e4b",
+      "bytes": 98357
+    },
+    "strip/2026-08-22-the-report-printed-a-five-billion-receipt/strip-square.png": {
+      "sha256": "078b38871c35b6e2f32eef0a1e46e6f88718f18823af5f55b7448483274ea300",
+      "bytes": 97284
+    },
+    "strip/2026-08-22-the-report-printed-a-five-billion-receipt/strip-thumb.png": {
+      "sha256": "2f9d0f2b254637b4c8d429a9adc588e714b1d7a196e85ae4e299f57f5a4abfa3",
+      "bytes": 37927
+    },
+    "strip/2026-08-22-the-report-printed-a-five-billion-receipt/strip-wide.png": {
+      "sha256": "ce369d2a805a5741350df662ac5e07bc349133189962e864a4871c72cf0ff392",
+      "bytes": 161417
+    },
+    "strip/2026-08-23-the-starting-grid-got-a-motorcade/index.html": {
+      "sha256": "2dfc2cce957a41e505997ba038b429e27936fe67ccfa26043e2bec10db37e014",
+      "bytes": 7370
+    },
+    "strip/2026-08-23-the-starting-grid-got-a-motorcade/panel-01.png": {
+      "sha256": "bd69a7d7b9701c115c537beecc4085821be321c9b05e194631818973f5ede6f8",
+      "bytes": 54812
+    },
+    "strip/2026-08-23-the-starting-grid-got-a-motorcade/panel-02.png": {
+      "sha256": "18e9780647dced3c9ba375d290d66a094b83910ef5879c86fe4e0b3f5ee105f3",
+      "bytes": 55207
+    },
+    "strip/2026-08-23-the-starting-grid-got-a-motorcade/panel-03.png": {
+      "sha256": "61f87f8f6f79e97334194436d531f46b51dae54a5a711f4328b2c3e0a4495d24",
+      "bytes": 56512
+    },
+    "strip/2026-08-23-the-starting-grid-got-a-motorcade/strip-og.png": {
+      "sha256": "e824a00e8013c2a06fd7a066307fcd1ac6fc987e578fb489f97a594edca04a33",
+      "bytes": 91828
+    },
+    "strip/2026-08-23-the-starting-grid-got-a-motorcade/strip-square.png": {
+      "sha256": "cf1318d12e34872abfa138c6e2f6ac4d7e081d63aaf3741460d187a07f05ab1d",
+      "bytes": 95582
+    },
+    "strip/2026-08-23-the-starting-grid-got-a-motorcade/strip-thumb.png": {
+      "sha256": "072af375038145f9ac0bc20fb94dabb5c3a1695e511beecc486b5604de18d5bb",
+      "bytes": 34568
+    },
+    "strip/2026-08-23-the-starting-grid-got-a-motorcade/strip-wide.png": {
+      "sha256": "9be5a8f45e85a3fc1eb7d7fbc035a35854c6652f5a2fea86751297ab5a335fff",
+      "bytes": 146276
+    },
+    "strip/2026-08-28-the-shared-lake-got-a-nameplate/index.html": {
+      "sha256": "177bd894f1c8c9e474871e135585ebc315bf0004f847a5182230c3df036bb67d",
+      "bytes": 6974
+    },
+    "strip/2026-08-28-the-shared-lake-got-a-nameplate/panel-01.png": {
+      "sha256": "3c19e71f8ccd6d0db8e0e32b6872f66fc4059d3168c1dc0dda9e55fe18af8155",
+      "bytes": 50742
+    },
+    "strip/2026-08-28-the-shared-lake-got-a-nameplate/panel-02.png": {
+      "sha256": "7d486852e7201f8a15e3dfe87eda280a808f3b0864dbe178fb495e8dee8c3b34",
+      "bytes": 52799
+    },
+    "strip/2026-08-28-the-shared-lake-got-a-nameplate/panel-03.png": {
+      "sha256": "e1f37f8f3493308548e55c50a6d882fbb4e60714bb15480b2c2f403d33200e92",
+      "bytes": 64445
+    },
+    "strip/2026-08-28-the-shared-lake-got-a-nameplate/strip-og.png": {
+      "sha256": "aebfa8d9baf5dd3831e776739e4753b8eb9b05ee33cec00f86750472850e1e13",
+      "bytes": 97287
+    },
+    "strip/2026-08-28-the-shared-lake-got-a-nameplate/strip-square.png": {
+      "sha256": "e102daba8d152fb28f1c746b6a9435e71db63e63689404e0e99f8877be15feb5",
+      "bytes": 96969
+    },
+    "strip/2026-08-28-the-shared-lake-got-a-nameplate/strip-thumb.png": {
+      "sha256": "ec0f077e44be4cd858cf2344fc415750ba7b1c8ecca9cf42f751c46808548ed3",
+      "bytes": 37656
+    },
+    "strip/2026-08-28-the-shared-lake-got-a-nameplate/strip-wide.png": {
+      "sha256": "815bc7dac5e63126cfb4ae2804801824a8db8f46abb36a3f1f0d4e623c0366df",
+      "bytes": 155381
+    },
+    "strip/2026-09-04-the-website-opened-an-arcade/index.html": {
+      "sha256": "dfcef46405c7a7ec0d6aa33480b327efe4cf0cdf3abb659b703946315d3b215a",
+      "bytes": 6595
+    },
+    "strip/2026-09-04-the-website-opened-an-arcade/panel-01.png": {
+      "sha256": "ac94962c5ee16d94adab68e1c1e10bc9d09661eec716855d41857e9e4a9f9b2a",
+      "bytes": 71919
+    },
+    "strip/2026-09-04-the-website-opened-an-arcade/panel-02.png": {
+      "sha256": "f41259e5ac504769d354e94859979f7fc0cb7c83e96a5b02be1897d4d3472df4",
+      "bytes": 80649
+    },
+    "strip/2026-09-04-the-website-opened-an-arcade/panel-03.png": {
+      "sha256": "39e48f3a7a8f6365fd7d2e51defdbe15068aa5eb8f56b6772115da7fe783b142",
+      "bytes": 74463
+    },
+    "strip/2026-09-04-the-website-opened-an-arcade/strip-og.png": {
+      "sha256": "34d53cd0c3a6e5156446c2680148754db7770a3fe672fc7d11890092117789fa",
+      "bytes": 126243
+    },
+    "strip/2026-09-04-the-website-opened-an-arcade/strip-square.png": {
+      "sha256": "bfac2301d01038faf9e14e5bf706ef44e5b705adf584607143c2aab9c6eedcdb",
+      "bytes": 122522
+    },
+    "strip/2026-09-04-the-website-opened-an-arcade/strip-thumb.png": {
+      "sha256": "1e87a191a8c7b01fe997337864c2c2d83c6686dcee1c9b3eca904200b1579e71",
+      "bytes": 47982
+    },
+    "strip/2026-09-04-the-website-opened-an-arcade/strip-wide.png": {
+      "sha256": "d8378edd9c848026e5990358b95d0eb0bb6d89731500587ce6f8f8a58a530b1f",
+      "bytes": 196421
+    },
+    "strip/2026-09-06-the-label-fits/index.html": {
+      "sha256": "8a40adba042eecef8c1fd5499aa20d2635e2e7be48c31d82b56b5cabe34be2cc",
+      "bytes": 6518
+    },
+    "strip/2026-09-06-the-label-fits/panel-01.png": {
+      "sha256": "f07d11361a631b5c52f54f3e4f92497d8f57676ebd966cc75d6073065e528de8",
+      "bytes": 59329
+    },
+    "strip/2026-09-06-the-label-fits/panel-02.png": {
+      "sha256": "27392116e7e092352d257ad5e20cb374bfc599e4792b36db8046800aee1448ec",
+      "bytes": 67696
+    },
+    "strip/2026-09-06-the-label-fits/panel-03.png": {
+      "sha256": "1382a5fa8d614d6fdec004aa5de37c1ce2635506626a518c4d030f975353b3ac",
+      "bytes": 58072
+    },
+    "strip/2026-09-06-the-label-fits/strip-og.png": {
+      "sha256": "776b8563f55611153a4550c4bca96c38fe147891ccc79f80f5c7858b0501d533",
+      "bytes": 86238
+    },
+    "strip/2026-09-06-the-label-fits/strip-square.png": {
+      "sha256": "99b5d0358adac4519c5f1dd13dc79a1f71b060260047efb75183d8f9b35299ad",
+      "bytes": 80331
+    },
+    "strip/2026-09-06-the-label-fits/strip-thumb.png": {
+      "sha256": "ce022df33b8f9db60853114a0474932586724f678162ea60f67234ed91bd77b0",
+      "bytes": 33124
+    },
+    "strip/2026-09-06-the-label-fits/strip-wide.png": {
+      "sha256": "5d223e1ab574a5bf3bebb28018a98ed5978dbb3790794838b1afd8bc4536baf5",
+      "bytes": 166199
     },
     "styles.css": {
       "sha256": "8457eb4fba9b19bff863d678e393c48439ae5cb88147e820794ef6a9fedd18d4",

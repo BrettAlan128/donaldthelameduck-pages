@@ -1,15 +1,15 @@
 {
   "schema_version": 1,
-  "canonical_revision": "4a96546a0294f897fa5b091d22f1c2c9cce1fa86",
+  "canonical_revision": "dd99835f31eb518f03aeded74d0a03b1eebd9652",
   "base_url": "https://brettalan128.github.io/donaldthelameduck-pages",
   "files": {
     "about/index.html": {
-      "sha256": "35abf2148a2c32c39966df35c3e88025d64c93ce131a594fe66e59b78750be15",
-      "bytes": 4064
+      "sha256": "d86cc73012cda8364f330c90d4e15e273a12d8e52480109c544d24ab6ea95436",
+      "bytes": 4066
     },
     "archive/index.html": {
-      "sha256": "ff14bf61b0c90e402f35d1a70a5f2d2153e853923e439b92a9123954e60c024f",
-      "bytes": 14367
+      "sha256": "b37c0354199e8c7550a4635efe12300bf500b70c279fc38c3f2fd5f56244e81d",
+      "bytes": 15007
     },
     "cast/donald/index.html": {
       "sha256": "2cf713d1e57142b7442b9a816f16d716478c1af0ef9b3b9ea70dfa67998f07d1",
@@ -72,8 +72,8 @@
       "bytes": 5208
     },
     "index.html": {
-      "sha256": "57b0b9327022e93759d578ca1b768a5058346c81f390f3405c68598fe066d7d4",
-      "bytes": 9873
+      "sha256": "172609fe599346022a1e4ee1b666af0e870856f75a4779547206bbcc4334c0c8",
+      "bytes": 10297
     },
     "product/big-win-die-cut-sticker/index.html": {
       "sha256": "80b246373aaf95367680e8bc3a9aea41ec0f10636ffc14fab3848149abee795a",
@@ -108,24 +108,24 @@
       "bytes": 153318
     },
     "receipts/index.html": {
-      "sha256": "d88a1d637cba2e4b1056f9b6ccbdb981572b8ec0a273688ddecdf31e6724258f",
-      "bytes": 22871
+      "sha256": "56784a01405920754df1a393ee3ced6e71f44b7f22282f473deee591642a2fef",
+      "bytes": 23607
     },
     "robots.txt": {
       "sha256": "83753a1079be46c59d583fa9572deabacf56fdfb7f80964bfa1b5a41e692f07c",
       "bytes": 99
     },
     "rss.xml": {
-      "sha256": "08ed1f534aef7018c8b7e8b32a4a56406753ce3b49615e3b40a1d3d84fbd0835",
-      "bytes": 24019
+      "sha256": "33112383a60a5406e236669f32f0614cbef01a9d854e10332d4246da9d561f4c",
+      "bytes": 25138
     },
     "shop.html": {
       "sha256": "a16d3852ee059563200175186510e680add2b5dcc916ca6b316cbce7a4b6aeef",
       "bytes": 6394
     },
     "sitemap.xml": {
-      "sha256": "7384b7490a819e1d97dd6ef379bf65c83af6ff583fc24690baadc2386d174e77",
-      "bytes": 5465
+      "sha256": "0a65ef394fd29fd204b335f20fbc431fd558eefa86781f2be2aa162fccbcfd7b",
+      "bytes": 5607
     },
     "strip/2026-07-22-they-won-he-accepted/index.html": {
       "sha256": "daa770a3953184d8595a1067ba129b585535ad5e7daa54c54aa2b11f3bab91a2",
@@ -800,8 +800,8 @@
       "bytes": 196421
     },
     "strip/2026-09-06-the-label-fits/index.html": {
-      "sha256": "8a40adba042eecef8c1fd5499aa20d2635e2e7be48c31d82b56b5cabe34be2cc",
-      "bytes": 6518
+      "sha256": "420f50bf0c00c424695664ecc107a1e7bc0b393c535bcc427900920a35a531f5",
+      "bytes": 6597
     },
     "strip/2026-09-06-the-label-fits/panel-01.png": {
       "sha256": "f07d11361a631b5c52f54f3e4f92497d8f57676ebd966cc75d6073065e528de8",
@@ -830,6 +830,38 @@
     "strip/2026-09-06-the-label-fits/strip-wide.png": {
       "sha256": "5d223e1ab574a5bf3bebb28018a98ed5978dbb3790794838b1afd8bc4536baf5",
       "bytes": 166199
+    },
+    "strip/2026-09-15-the-safety-test/index.html": {
+      "sha256": "45cfec8accaf53382e0766c82057b5f75b7366920c125b52e076fff96e766f05",
+      "bytes": 6970
+    },
+    "strip/2026-09-15-the-safety-test/panel-01.png": {
+      "sha256": "0a0825f96ad7334587975aef33612dded51206954515783274d93616a6bf0529",
+      "bytes": 76637
+    },
+    "strip/2026-09-15-the-safety-test/panel-02.png": {
+      "sha256": "77c1d372b73b57074ecdc583b822f253dd083cc0e10689d2c37b12df91fc42e3",
+      "bytes": 87960
+    },
+    "strip/2026-09-15-the-safety-test/panel-03.png": {
+      "sha256": "4262ab83284c2e051e041aeabb91a7ad1505b9ca035c166b527f6b9a953256c6",
+      "bytes": 71350
+    },
+    "strip/2026-09-15-the-safety-test/strip-og.png": {
+      "sha256": "d97bcfc649c439a7a58bb5d9efe8ef05c09f8d61e78522ffb625c7245d78d9e0",
+      "bytes": 85821
+    },
+    "strip/2026-09-15-the-safety-test/strip-square.png": {
+      "sha256": "21d7d23df44458cf03fb525918bdd6909339555f8d0e3b5a94640bbf5d7997c1",
+      "bytes": 82107
+    },
+    "strip/2026-09-15-the-safety-test/strip-thumb.png": {
+      "sha256": "0ccbcf41fa680c692a14193c2c2fcd2d928c337cba92b08bfbabb4fff27f39a7",
+      "bytes": 32688
+    },
+    "strip/2026-09-15-the-safety-test/strip-wide.png": {
+      "sha256": "5278c991fc0886a0604da33403660c9bc130f5506b4dbe66e7848dab5ad279c6",
+      "bytes": 119495
     },
     "styles.css": {
       "sha256": "8457eb4fba9b19bff863d678e393c48439ae5cb88147e820794ef6a9fedd18d4",
